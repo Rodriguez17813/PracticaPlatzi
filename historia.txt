@@ -1,3 +1,6 @@
 Cesar Rodriguez
 empezando git y github
 
+curso para avanzar y profundizar el conocimiento
+
+cursos a desarrollar, java, git, react
