@@ -1,0 +1,5 @@
+Borrar y cargar datos del repositorio
+eliminar y estudiar rm
+ya estuvimos analizando el reset
+Dios nos ayuda siempre 
+no esta funcionando el reset head nombre archivo
