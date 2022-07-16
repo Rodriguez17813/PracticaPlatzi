@@ -4,3 +4,7 @@ estara cool
 fallas tenidas en el proceso
 aun no captamos la idea
 git reset head pruebaborrado
+fallamos
+nuevo intento
+git rm --cached arcivo.txt  
+desvincula el archivo de todos lados pero queda en el disco duro
