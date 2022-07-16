@@ -1,3 +1,6 @@
 Esto es un archivo de prueba de borrado para rm
 subir al repositorio antes 
 estara cool
+fallas tenidas en el proceso
+aun no captamos la idea
+git reset head pruebaborrado

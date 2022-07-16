@@ -3,3 +3,5 @@ eliminar y estudiar rm
 ya estuvimos analizando el reset
 Dios nos ayuda siempre 
 no esta funcionando el reset head nombre archivo
+ya desciframos un problema
+seguimos
