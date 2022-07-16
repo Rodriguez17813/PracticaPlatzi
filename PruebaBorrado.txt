@@ -8,3 +8,5 @@ fallamos
 nuevo intento
 git rm --cached arcivo.txt  
 desvincula el archivo de todos lados pero queda en el disco duro
+jhjjh
+rtretr
