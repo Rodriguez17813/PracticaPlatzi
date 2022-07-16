@@ -4,3 +4,10 @@ body
     color: brown;
     font-family: 'Times New Roman', Times, serif;
 }
+
+container {
+color: aqua;
+text-align: center;
+font-family: Arial;
+margin: auto;
+}
