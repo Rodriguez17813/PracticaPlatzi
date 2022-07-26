@@ -5,3 +5,6 @@ seguiremos estudiando
 # incluye ejemplos en windows, haciendo pruebas de hash
 # probamos y practicamos al ritmo del curso
 # probando branch
+
+esto es el master hasta aqui
+-- ahora vamos con una rama diferente ---
