@@ -10,3 +10,5 @@ esto es el master hasta aqui
 -- ahora vamos con una rama diferente ---
 creado por freddier y actualizando una nueva rama
 tenemos muchos conflictos a la hora de aplicar el comando
+disponibilidad para todos y con un buen profesor-------
+--------------------------------------------------------
